@@ -1,22 +1,29 @@
-# Okinawa Trip Plan — Through Nov 8, 2026
+# Okinawa & Taipei Trip Plan — Fall 2026
 
 ## At-a-Glance
 
 | Date | Area | Main Plan | Accommodation |
 |---|---|---|---|
 | **Oct 29** | Travel | Depart Chicago | Overnight flight |
-| **Oct 30** | Naha | Arrive Okinawa; easy central Naha afternoon/evening | **Hotel Palm Royal Resort Kokusai Street** |
-| **Oct 31** | Naha | Shuri / historic Naha + local neighborhoods | **Hotel Palm Royal Resort Kokusai Street** |
-| **Nov 1** | Naha | Shurijo procession + planned dinner | **Hotel Palm Royal Resort Kokusai Street** |
-| **Nov 2** | Tokashiki | Ferry to Tokashiki; beach / snorkeling | **Tokashiku Marine Village** |
-| **Nov 3** | Tokashiki → Itoman | Island day; late ferry back; wedding hotel | **Ryukyu Hotel & Resort Nashiro Beach** |
+| **Oct 30** | Naha | Arrive Okinawa; easy central Naha | **Hotel Palm Royal Resort Kokusai Street** |
+| **Oct 31** | Naha | Historic Naha / Shuri | **Hotel Palm Royal Resort Kokusai Street** |
+| **Nov 1** | Naha | Shurijo procession + dinner | **Hotel Palm Royal Resort Kokusai Street** |
+| **Nov 2** | Tokashiki | Ferry; beach / snorkeling | **Tokashiku Marine Village** |
+| **Nov 3** | Tokashiki → Itoman | Island day; late ferry; wedding hotel | **Ryukyu Hotel & Resort Nashiro Beach** |
 | **Nov 4** | Itoman | Wedding | **Ryukyu Hotel & Resort Nashiro Beach** |
 | **Nov 5** | Itoman → Yomitan | Rental car; glass village; Yomitan | **Anse Yomitan Toya** |
 | **Nov 6** | Yomitan → Nakijin | Churaumi / Bise / Nakijin Castle | **The Lodge Okinawa** |
-| **Nov 7** | Yanbaru | Full northern Okinawa road-trip day | **The Lodge Okinawa** |
-| **Nov 8** | Nakijin → Naha | Kayaking option; return south; rental car return | **TBD — Naha** |
+| **Nov 7** | Yanbaru | Northern Okinawa road trip | **The Lodge Okinawa** |
+| **Nov 8** | Nakijin → Naha | Kayaking option; return rental car | **TBD — Naha** |
+| **Nov 9** | Taipei | Arrival; Zhongshan / Dadaocheng | **Hotel Nikko Taipei** |
+| **Nov 10** | Taipei | Historic core + Taipei 101 | **Hotel Nikko Taipei** |
+| **Nov 11** | Taipei | National Palace Museum + Beitou | **Hotel Nikko Taipei** |
+| **Nov 12** | Taipei → Naha | Easy Taipei morning; evening flight | **JR Kyushu Hotel Blossom Naha** |
+| **Nov 13** | Travel | Naha → Taipei → Chicago | — |
 
 ---
+
+# Daily Plan — Okinawa
 
 ## Thu, Oct 29 — Travel Day
 - Depart Chicago O'Hare at **12:30 AM**
@@ -30,18 +37,17 @@
 ## Fri, Oct 30 — Arrive Naha
 **Arrive Naha:** 9:15 AM
 
-### Accommodation
-**Hotel Palm Royal Resort Kokusai Street — CONFIRMED**
+### Hotel Palm Royal Resort Kokusai Street — CONFIRMED
 - Check-in: **3:00 PM – midnight**
+- Standard Double Room
+- No meals included
 - Confirmation: `5641.021.203`
 
 ### Plan
-Keep this intentionally light after the long flight.
-
 **Core**
 - Drop luggage / check in when available
 - Walk Kokusai-dori
-- Explore Makishi Public Market area
+- Makishi Public Market area
 - Easy Okinawan dinner
 
 **Optional**
@@ -61,7 +67,7 @@ Keep this intentionally light after the long flight.
 ### Afternoon / evening options
 - **A.** Tsuboya pottery district + Makishi arcades
 - **B.** Okinawa Prefectural Museum & Art Museum
-- **C.** Sakaemachi Arcade for a more local evening / izakaya atmosphere
+- **C.** Sakaemachi Arcade / small izakaya evening
 
 ---
 
@@ -77,8 +83,8 @@ Keep this intentionally light after the long flight.
 **Ryukyu Dynasty Picture Scroll Procession**
 - **12:30 PM – 3:00 PM**
 - **Kokusai-dori**
-- Free to watch
-- Palm Royal is well positioned for the event
+- Free
+- Palm Royal is well positioned for the procession
 - Expect traffic restrictions around Kokusai-dori from around noon
 
 ### Evening
@@ -86,11 +92,7 @@ Keep this intentionally light after the long flight.
 
 ---
 
-## Mon, Nov 2 — Naha → Tokashiki Island
-
-### Morning
-- Check out of Palm Royal
-- Head to Tomari Port with overnight luggage only
+## Mon, Nov 2 — Naha → Tokashiki
 
 ### Ferry — CONFIRMED
 Reservation: `TK11020064`
@@ -99,39 +101,33 @@ Reservation: `TK11020064`
 - Tomari Port → Tokashiki Port
 - **9:00 AM – 9:40 AM**
 
-### Accommodation
-**Tokashiku Marine Village — CONFIRMED**
+### Tokashiku Marine Village — CONFIRMED
 - Check-in: **3:00 PM – 6:00 PM**
 - Japanese-Style Triple Room with Sea View
-- **Breakfast + dinner included**
+- Breakfast + dinner included
 - Confirmation: `5547.500.982`
 
-### Island plan
-**Core**
+### Plan
 - Hotel shuttle from Tokashiki Port
-- Leave bags at hotel
+- Leave luggage
 - Tokashiku Beach
-- Relax / swim / snorkel
+- Swim / relax / snorkel
 
-**Options**
+### Activity options
 - **A.** Guided snorkeling trip
-- **B.** Sea-turtle-focused snorkeling near Tokashiku
-- **C.** Hotel shuttle / visit to Aharen Beach
-
-### Outstanding
-- [ ] Book snorkeling / marine activity
-- [ ] Confirm hotel pickup from the 9:40 AM ferry
+- **B.** Sea-turtle-focused snorkeling
+- **C.** Aharen Beach visit
 
 ---
 
-## Tue, Nov 3 — Tokashiki → Wedding Hotel
+## Tue, Nov 3 — Tokashiki → Itoman
 
-### Morning / afternoon
-- Breakfast at Marin Village
+### Island day
+- Breakfast
 - Check out by **11:00 AM**
 - Leave luggage with hotel
-- Spend most of the day on the island
-- Shower / change before leaving
+- Spend most of the day on Tokashiki
+- Shower / change before departure
 
 ### Ferry — CONFIRMED
 **Marine Liner Tokashiki**
@@ -139,27 +135,20 @@ Reservation: `TK11020064`
 - **5:00 PM – 5:40 PM**
 
 ### Evening
-- Travel from Tomari to Ryukyu Hotel & Resort
-- Late arrival after ferry
+- Travel to Ryukyu Hotel after arriving in Naha
 
-### Accommodation
-**Ryukyu Hotel & Resort Nashiro Beach — CONFIRMED**
+### Ryukyu Hotel & Resort Nashiro Beach — CONFIRMED
 - Deluxe Twin Room
 - Breakfast included
 - Wedding stay
 
-**Note:** Ryukyu Glass Village is no longer planned for Nov 3 because of the later Tokashiki return.
-
 ---
 
-## Wed, Nov 4 — Wedding Day
+## Wed, Nov 4 — Wedding
 **Night:** Ryukyu Hotel & Resort Nashiro Beach
 
-- **Wedding**
-- Keep the entire day centered on the resort / wedding schedule
-
-### Outstanding
-- [ ] Add wedding-day schedule when available
+- **Wedding day**
+- Keep day centered on the resort / wedding schedule
 
 ---
 
@@ -167,130 +156,207 @@ Reservation: `TK11020064`
 
 ### Morning
 - Check out of Ryukyu Hotel by **11:00 AM**
+- Pick up rental car
+- Load luggage
 
-### Rental car
-**Status:** TBD
-
-Recommended sequence:
-1. Pick up rental car
-2. Load luggage
-3. Ryukyu Glass Village
-4. Begin drive north
+### First stop
+**Ryukyu Glass Village — must-do**
 
 ### Yomitan options
 - **A. Yachimun no Sato** — pottery village / workshops
-- **B. Zakimi Castle** — Ryukyu castle ruins
-- **C. Cape Zanpa** — best fit for sunset / relaxed end to first driving day
+- **B. Zakimi Castle** — castle ruins
+- **C. Cape Zanpa** — sunset / relaxed end to the day
 
 ### Optional evening
 - **Southeast Botanical Gardens**
-- Treat as a bonus rather than a commitment, especially if first-day driving feels tiring
+- Bonus rather than a commitment
 
-### Accommodation
-**Anse Yomitan Toya — CONFIRMED**
+### Anse Yomitan Toya — CONFIRMED
 - Check-in: **3:00 PM – 11:30 PM**
-- Check-out Nov 6: **5:00 AM – 11:00 AM**
+- Check-out: Nov 6 by **11:00 AM**
 - Ocean King Room with Jacuzzi Bath
 - Sea view
 - No meals included
 - Free parking
 - Confirmation: `5321.148.594`
 
-**Driving goal:** Keep this as the easiest / lowest-pressure driving day.
-
 ---
 
 ## Fri, Nov 6 — Yomitan → Motobu / Nakijin
-
-### Morning
-- Check out of Anse Yomitan Toya
-- Drive north along the west side of Okinawa
 
 ### Recommended order
 1. **Okinawa Churaumi Aquarium**
 2. **Bise Fukugi Tree Road** — optional
 3. **Nakijin Castle**
-4. Check in at The Lodge Okinawa
+4. Check in
 
-### If the day runs long
-Priority:
+### Priority if time runs short
 1. Churaumi
 2. Nakijin Castle
-3. Bise becomes optional
+3. Bise optional
 
-### Accommodation
-**The Lodge Okinawa — CONFIRMED**
+### The Lodge Okinawa — CONFIRMED
 - Check-in: **3:00 PM – 7:00 PM**
-- Check-out Nov 8: **8:00 AM – 10:00 AM**
 - 2 nights
 - Tent / glamping-style unit
 - Queen bed
+- Sauna
 - No meals included
 - Free parking
-- Sauna
 - Confirmation: `5802.023.707`
-- **¥15,000 damage deposit required at arrival**
-
-**Base:** Nakijin / northern Okinawa, convenient for Kouri and Yanbaru.
+- **¥15,000 refundable damage deposit at arrival**
 
 ---
 
 ## Sat, Nov 7 — Yanbaru Road Trip
 **Night:** The Lodge Okinawa
 
-### Core route
-- Nakijin / Lodge
+### Core
 - Ogimi Village
 - Yanbaru forest area
 - Cape Hedo
 - Return to Nakijin
 
-### Pick one substantial nature stop
+### Choose one substantial nature stop
 - **A. Hiji Falls** — forest walk / waterfall
-- **B. ASMUI / northern limestone landscape** — easier sightseeing, pairs naturally with Cape Hedo
-- **C. Slower Yanbaru day** — Ogimi, roadside / village stops, Cape Hedo, more time to stop spontaneously
+- **B. ASMUI** — limestone landscape; easier pairing with Cape Hedo
+- **C. Slow Yanbaru day** — villages, roadside stops, Cape Hedo
 
-### Driving note
-Do **not** feel obligated to complete a full east-coast Route 70 loop.
-If tired after Cape Hedo, return by the easier western route.
+**Driving note:** Full Route 70 east-coast loop is optional. Return by the easier western route if tired.
 
 ---
 
 ## Sun, Nov 8 — Nakijin → Kayak → Naha
 
 ### Morning
-- Check out of The Lodge Okinawa by **10:00 AM**
+- Check out of The Lodge by **10:00 AM**
 
-### Kayaking options
+### Options
 - **A. Gesashi Bay mangrove kayaking — preferred**
+  - Guided
   - Different ecosystem from Tokashiki
-  - Good fit geographically on the drive south
-  - Guided trip
-  - Timing depends on tides
-
+  - Tour time depends on tides
 - **B. Kouri-area ocean kayak / SUP**
-  - Stay near Kouri in the morning
-  - Better if weather and sea conditions are calm
-
 - **C. Skip kayaking**
-  - Slow breakfast / Kouri Island
-  - Scenic drive south
-  - More relaxed final road-trip day
+  - Slow Kouri morning + relaxed drive south
 
 ### Afternoon / evening
-- Drive back toward Naha
-- Refuel rental car
+- Drive toward Naha
+- Refuel
 - Return rental car
-- Check in near Naha / airport
-- Final Okinawa dinner before Taipei
+- Final Okinawa dinner
 
 ### Accommodation
-**TBD — only remaining hotel night before Taipei**
+**TBD — Naha, Nov 8–9**
 
 Preferred areas:
-- **A. Akamine / Oroku:** easiest airport morning
-- **B. Asahibashi / west Naha:** still convenient, more restaurants
-- **C. Central Naha:** best final-night atmosphere, slightly less efficient for airport
+- **A. Akamine / Oroku** — easiest airport morning
+- **B. Asahibashi / west Naha** — airport convenience + restaurants
+- **C. Central Naha** — best atmosphere; slightly less efficient
+
+---
+
+# Taipei — High-Level Daily Plan
+
+## Mon, Nov 9 — Arrival + Zhongshan / Dadaocheng
+**Hotel Nikko Taipei**
+
+- Arrive TPE **10:20 AM**
+- Check in / leave luggage
+- Zhongshan neighborhood
+- Dihua Street / Dadaocheng
+- **Ningxia Night Market**
+
+**Feel:** Easy arrival day centered on walkable neighborhoods, food, shops and old Taipei streets.
+
+---
+
+## Tue, Nov 10 — Classic Taipei + Taipei 101
+**Hotel Nikko Taipei**
+
+### Core
+- Chiang Kai-shek Memorial Hall
+- Longshan Temple
+- Bopiliao Historic Block
+- Xinyi district
+- Taipei 101 late afternoon / evening
+
+**Feel:** Main historic landmarks during the day, then modern Taipei and skyline views at night.
+
+---
+
+## Wed, Nov 11 — National Palace Museum + Beitou
+**Hotel Nikko Taipei**
+
+### Morning
+**National Palace Museum**
+- Target roughly **9:00 AM – noon / 12:30 PM**
+- Focus on highlights rather than trying to see everything
+
+### Afternoon — Beitou
+- Lunch / transfer to Xinbeitou
+- Beitou Park
+- Beitou Hot Spring Museum
+- Thermal Valley
+
+### Late afternoon / early evening
+**Private hot-spring soak — planned**
+
+Recommended option:
+**Grand View Resort Beitou**
+- Private spring rooms are reservation-only
+- Rooms are for 2 guests
+- Most sessions are **90 minutes**
+- Reservations open **one month in advance**
+
+**How to reserve**
+- Use the Grand View Resort Beitou official online booking page for Private Hot Spring Rooms, or
+- Call **+886 2 2898 8888**, or
+- Email **rsvn@gvrb.com.tw**
+- For Nov 11, try to book once the one-month reservation window opens
+
+### Evening
+- Dinner in Beitou **or**
+- Return to Zhongshan for dinner
+
+### Alternative for Nov 11
+**Shilin-focused afternoon/evening**
+- Chiang Kai-shek Shilin Residence
+- Shilin neighborhood
+- Shilin Night Market
+
+Keep this as the backup if Beitou plans change.
+
+---
+
+## Thu, Nov 12 — Taipei → Naha
+
+### Morning / early afternoon
+Options:
+- **A. Huashan 1914 Creative Park**
+- **B. Final Zhongshan café / shopping morning**
+- **C. Dadaocheng revisit / riverside walk**
+- Lunch before airport transfer
+
+### Flight
+**Tigerair Taiwan IT232**
+- TPE Terminal 1 departure: **6:20 PM**
+- Arrive Naha: **8:40 PM**
+
+### JR Kyushu Hotel Blossom Naha — CONFIRMED
+- Check-in: **3:00 PM – 11:00 PM**
+- Check-out Nov 13: **5:00 AM – 11:00 AM**
+- Superior Double Room
+- Breakfast included
+- Confirmation: `5547.504.097`
+
+---
+
+## Fri, Nov 13 — Return Home
+- EVA Air BR113: Naha → Taipei
+- Depart Naha **10:15 AM**
+- EVA Air BR56: Taipei → Chicago
+- Arrive Chicago **7:35 PM**
 
 ---
 
@@ -303,20 +369,64 @@ Preferred areas:
 | **Nov 3 – Nov 5** | Ryukyu Hotel & Resort Nashiro Beach | ✅ Confirmed |
 | **Nov 5 – Nov 6** | Anse Yomitan Toya | ✅ Confirmed |
 | **Nov 6 – Nov 8** | The Lodge Okinawa | ✅ Confirmed |
-| **Nov 8 – Nov 9** | Naha hotel | ⬜ TBD |
+| **Nov 8 – Nov 9** | Naha hotel | ⬜ **TBD** |
+| **Nov 9 – Nov 12** | Hotel Nikko Taipei | ✅ Confirmed |
+| **Nov 12 – Nov 13** | JR Kyushu Hotel Blossom Naha | ✅ Confirmed |
 
 ---
 
-# Immediate To-Do
+# Book / Reserve Before Departure
 
-- [ ] Submit / receive IDP
-- [ ] Book rental car for **Nov 5 – Nov 8**
-- [ ] Choose rental pickup / return locations
-- [ ] Add ETC card + strong insurance / NOC coverage
-- [ ] Book Tokashiki snorkeling / marine activity
-- [ ] Confirm Tokashiku Marine Village ferry shuttle
-- [ ] Add Nov 1 dinner details
-- [ ] Add Nov 4 wedding schedule
-- [ ] Choose Nov 7 Yanbaru nature stop
-- [ ] Book Nov 8 kayaking
-- [ ] Book Nov 8 Naha hotel
+## Urgent / Structural
+- [ ] **Nov 8 Naha hotel**
+  - Only remaining accommodation gap before Taipei.
+- [ ] **Rental car — Nov 5 to Nov 8**
+  - Small automatic compact
+  - ETC card
+  - Strong deductible + NOC protection
+  - Return car Nov 8 rather than airport morning
+- [ ] **IDP**
+  - Submit application
+  - Bring physical IDP + Illinois license + passport
+
+## Activities
+- [ ] **Tokashiki snorkeling / marine activity**
+  - Reserve in advance if doing a guided boat snorkel.
+  - Ask Tokashiku Marine Village about available operators / arrangements.
+- [ ] **Tokashiku Marine Village ferry shuttle**
+  - Contact hotel before travel.
+  - Give them:
+    - Nov 2 arrival: **9:40 AM**
+    - Nov 3 departure: **5:00 PM**
+- [ ] **Nov 8 Gesashi mangrove kayak**
+  - Choose operator and reserve guided tour.
+  - Tour time will be based on the tide; build Nov 8 around the confirmed slot.
+- [ ] **Nov 11 Beitou private hot spring**
+  - Preferred: Grand View Resort Beitou
+  - Reservation required
+  - Opens one month ahead
+  - Book online, call **+886 2 2898 8888**, or email **rsvn@gvrb.com.tw**
+
+## Optional Advance Booking
+- [ ] **National Palace Museum English guided tour — Nov 11**
+  - General admission is separate.
+  - For the scheduled **English guided tour**, reserve through the museum's official site at least **one week in advance**.
+- [ ] **Taipei 101 observation deck — Nov 10**
+  - Decide whether to pre-book a timed ticket or keep the evening flexible.
+
+## Details Still Needed
+- [ ] Nov 1 dinner details
+- [ ] Nov 4 wedding-day schedule
+- [ ] Choose Nov 7 Yanbaru nature stop: Hiji / ASMUI / slower exploration
+
+---
+
+# Time Zones
+
+| City | Time Zone | Difference from Chicago during trip |
+|---|---|---|
+| **Chicago** | Central Time | — |
+| **Naha** | JST (UTC+9) | 14 hours ahead through Oct 31; **15 hours ahead from Nov 1** |
+| **Taipei** | UTC+8 | 13 hours ahead through Oct 31; **14 hours ahead from Nov 1** |
+
+Chicago changes from daylight saving time to standard time on **Nov 1, 2026**.
